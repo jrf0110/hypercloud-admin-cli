@@ -1,6 +1,6 @@
 # hypercloud-admin-cli
 
-Admin command-line shell for [hypercloud](https://github.com/datproject/hypercloud).
+Admin command-line shell for [hypercloud](https://github.com/datprotocol/hypercloud).
 
 ```
 npm i -g hypercloud-admin-cli
